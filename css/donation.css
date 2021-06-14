@@ -1,0 +1,46 @@
+body{
+  background-image: url(../images/covid.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  size:100% 100%;
+
+}
+.header {
+  height:100vh;
+  margin:0;
+  padding:0;
+
+}
+.navbar-brand{
+  padding-left: 10px;
+}
+.navbar{
+  background-color: rgb(79.2%,96.9%,89%)
+}
+li{
+  padding-right: 10px;
+}
+h1
+{
+  font-size: 300%;
+    margin-top: 20%;
+    margin-left: 10%;
+    font-style: normal;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+  margin: 5%;
+  padding: 10%;
+}
+.fas{
+  font-size: 380%; text-align: center;
+}
+.donatebox{
+  text-align: center;
+  padding-left: 3%;
+  color: ivory;
+}

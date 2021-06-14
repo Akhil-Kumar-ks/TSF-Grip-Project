@@ -1,0 +1,82 @@
+body{
+  background-image: url(../images/covid.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  size:100% 100%;
+
+}
+.header {
+  height:100vh;
+  margin:0;
+  padding:0;
+
+}
+.navbar-brand{
+  padding-left: 10px;
+}
+.navbar{
+  background-color: rgb(79.2%,96.9%,89%)
+}
+li{
+  padding-right: 10px;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+}
+
+h1
+{
+  font-size: 300%;
+    margin-top: 20%;
+    margin-left: 10%;
+    font-style: normal;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+  font-size: 30px;
+  margin-top: 1%;
+  margin-left: 12%;
+  margin-right: 10%;
+    text-align: center;
+    color:ivory;
+
+}
+.btn{
+   border-color: white;
+   border-width: 2px;
+      color: white;
+      margin-left: 45%;
+      padding: 10px 30px;
+      font-size: 25px;
+  }
+
+.active{
+  background-color: white;
+}
+.container{
+margin-bottom: 20%;
+font-style: 200%;
+
+}
+h4{
+  margin-top: 5%;
+  margin-left: 43%;
+  margin-right: 40%;
+  text-align: center;
+  color:#deeeea;
+  padding: 0;
+  margin-bottom: 35%;
+  font-family:inherit;
+  font-style: italic;
+  font-weight:bold;
+}
+.name{
+  margin-left:5%;
+  margin-right: 5%;
+}

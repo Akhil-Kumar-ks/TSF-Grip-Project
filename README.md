@@ -20,7 +20,7 @@ Akhil Kumar K S
 
 ⚪ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
- 💻  The code
+ 💻  
 This project scrpit is written using HTML and  CSS.
 Check the working Website Live here!!! (desktop view)
 
